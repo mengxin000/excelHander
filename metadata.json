@@ -1,0 +1,5 @@
+{
+  "name": "ExcelClean - 极简Excel自动整理工具",
+  "description": "一键清洗、格式统一、批量处理Excel文件，专为非技术人员设计的即插即用工具。",
+  "requestFramePermissions": []
+}
